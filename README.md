@@ -41,4 +41,4 @@ Data loads live via `yfinance`; if network/data access fails, the notebook autom
 
 ## Author
 
-Yuvraj — Quantitative Options Analyst, Futures First. Background in stochastic calculus, options pricing (Black-Scholes, Heston, SABR), and quantitative risk modeling.
+Yuvraj Singh
